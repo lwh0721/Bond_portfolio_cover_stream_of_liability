@@ -8,4 +8,4 @@ Use the bonds to construct a lowest-cost portfolio to cover the liability in two
 
 1. Cover the stream of liabilities
 
-2. Match the PV and the dollar duration of the liabilities
+2. Match the PV and the Dollar Duration of the liabilities
